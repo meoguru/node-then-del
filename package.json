@@ -1,0 +1,22 @@
+{
+  "name": "then-del",
+  "version": "1.0.0",
+  "description": "Promise-based files/folders deleting.",
+  "keywords": [
+    "del",
+    "delete",
+    "file",
+    "folder",
+    "promise"
+  ],
+  "license": "MIT",
+  "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",
+  "files": [
+    "index.js"
+  ],
+  "repository": "meoguru/node-then-del",
+  "dependencies": {
+    "del": "^1.1.1",
+    "thenify": "^3.1.0"
+  }
+}
